@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>BananaSchool</title>
+</head>
+<body>
+
+
+    <h1>Điền thông tin đăng nhập :</h1>
+    <input id="user" placeholder="Tên đăng nhập"/>
+    <br />
+    <input id="pass" type="password" placeholder="mật khẩu"/>
+    <button id="clicked">Đăng nhập</button>
+  
+    <script>
+        document.getElementById("clicked").addEventListener("click", function () {
+            var user = document.getElementById("user").value; 
+            var pass = document.getElementById("pass").value;
+            var xhr = new XMLHttpRequest(); 
+         
+            xhr.open('POST', "/confirm", true);
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            var data = 'username=' + encodeURIComponent(user) + '&password=' + encodeURIComponent(pass);
+            xhr.send(data);
+           
+            xhr.onload = function () {
+                if (xhr.readyState == XMLHttpRequest.DONE && xhr.status == 200) {
+                    xhr.open('GET', '/confirm/loggin', true); // G?i y?u c?u GET t?i /listen endpoint
+                    xhr.send();
+                }
+            }
+        });
+    </script>
+</body>
+</html>

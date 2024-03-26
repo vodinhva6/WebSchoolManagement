@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>?i?n th?ng addaadp :</h1>
+     <div id ="result"></div>
+    <script>
+        var res;
+        function listenToServer() {
+            var xhr = new XMLHttpRequest();
+           
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == XMLHttpRequest.DONE) {
+                    if (xhr.status == 200) {
+                        res = document.getElementById('result').innerHTML = xhr.responseText;
+                        if (res == "failed")
+                            window.location.href = '/';
+                        else if (res == "not")
+                            listenToServer();
+                        //window.location.href = '/adad';
+                    }
+                    // G?i l?i y?u c?u ?? ti?p t?c l?ng nghe s? ki?n t? m?y ch?
+                   
+                }
+            };
+            xhr.open('GET', '/confirm/listen', true); // G?i y?u c?u GET t?i /listen endpoint
+            xhr.send();
+        }
+
+        // B?t ??u l?ng nghe s? ki?n t? m?y ch? khi trang ?? t?i
+        window.onload = function () {
+            listenToServer();
+        };
+
+        
+    </script>
+</body>
+</html>

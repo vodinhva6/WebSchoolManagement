@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2210102\\Desktop\\Website\\js\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|C:\\Users\\2210102\\Desktop\\Website\\js\\PageProcess\\Loggin\\homePage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|solutionrelative:PageProcess\\Loggin\\homePage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|C:\\Users\\2210102\\Desktop\\Website\\js\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|solutionrelative:server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|C:\\Users\\2210102\\Desktop\\Website\\js\\PageProcess\\Loggin\\LogginProcess.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|solutionrelative:PageProcess\\Loggin\\LogginProcess.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|C:\\Users\\2210102\\Desktop\\Website\\js\\PageProcess\\Loggin\\logginPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|solutionrelative:PageProcess\\Loggin\\logginPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|C:\\Users\\2210102\\Desktop\\Website\\js\\html\\homePage.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|solutionrelative:html\\homePage.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|C:\\Users\\2210102\\Desktop\\Website\\js\\CookieProcess\\cookieProcess.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|solutionrelative:CookieProcess\\cookieProcess.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|C:\\Users\\2210102\\Desktop\\Website\\js\\html\\Page1.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|solutionrelative:html\\Page1.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|C:\\Users\\2210102\\Desktop\\Website\\js\\html\\Page2.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{ECD07AE9-00F5-455A-9E7F-27B8A410752C}|js.njsproj|solutionrelative:html\\Page2.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\2210102\\Desktop\\Website\\js\\server.js",
+              "RelativeDocumentMoniker": "server.js",
+              "ToolTip": "C:\\Users\\2210102\\Desktop\\Website\\js\\server.js",
+              "RelativeToolTip": "server.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-17T15:12:29.814Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homePage.js",
+              "DocumentMoniker": "C:\\Users\\2210102\\Desktop\\Website\\js\\PageProcess\\Loggin\\homePage.js",
+              "RelativeDocumentMoniker": "PageProcess\\Loggin\\homePage.js",
+              "ToolTip": "C:\\Users\\2210102\\Desktop\\Website\\js\\PageProcess\\Loggin\\homePage.js",
+              "RelativeToolTip": "PageProcess\\Loggin\\homePage.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-20T16:15:48.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "homePage.html",
+              "DocumentMoniker": "C:\\Users\\2210102\\Desktop\\Website\\js\\html\\homePage.html",
+              "RelativeDocumentMoniker": "html\\homePage.html",
+              "ToolTip": "C:\\Users\\2210102\\Desktop\\Website\\js\\html\\homePage.html",
+              "RelativeToolTip": "html\\homePage.html",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-20T16:15:09.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cookieProcess.js",
+              "DocumentMoniker": "C:\\Users\\2210102\\Desktop\\Website\\js\\CookieProcess\\cookieProcess.js",
+              "RelativeDocumentMoniker": "CookieProcess\\cookieProcess.js",
+              "ToolTip": "C:\\Users\\2210102\\Desktop\\Website\\js\\CookieProcess\\cookieProcess.js",
+              "RelativeToolTip": "CookieProcess\\cookieProcess.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-20T15:19:06.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page2.html",
+              "DocumentMoniker": "C:\\Users\\2210102\\Desktop\\Website\\js\\html\\Page2.html",
+              "RelativeDocumentMoniker": "html\\Page2.html",
+              "ToolTip": "C:\\Users\\2210102\\Desktop\\Website\\js\\html\\Page2.html",
+              "RelativeToolTip": "html\\Page2.html",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-18T02:54:59.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page1.html",
+              "DocumentMoniker": "C:\\Users\\2210102\\Desktop\\Website\\js\\html\\Page1.html",
+              "RelativeDocumentMoniker": "html\\Page1.html",
+              "ToolTip": "C:\\Users\\2210102\\Desktop\\Website\\js\\html\\Page1.html",
+              "RelativeToolTip": "html\\Page1.html",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-18T00:50:24.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "logginPage.js",
+              "DocumentMoniker": "C:\\Users\\2210102\\Desktop\\Website\\js\\PageProcess\\Loggin\\logginPage.js",
+              "RelativeDocumentMoniker": "PageProcess\\Loggin\\logginPage.js",
+              "ToolTip": "C:\\Users\\2210102\\Desktop\\Website\\js\\PageProcess\\Loggin\\logginPage.js",
+              "RelativeToolTip": "PageProcess\\Loggin\\logginPage.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-18T00:44:52.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogginProcess.js",
+              "DocumentMoniker": "C:\\Users\\2210102\\Desktop\\Website\\js\\PageProcess\\Loggin\\LogginProcess.js",
+              "RelativeDocumentMoniker": "PageProcess\\Loggin\\LogginProcess.js",
+              "ToolTip": "C:\\Users\\2210102\\Desktop\\Website\\js\\PageProcess\\Loggin\\LogginProcess.js",
+              "RelativeToolTip": "PageProcess\\Loggin\\LogginProcess.js",
+              "ViewState": "AQIAAG0AAAAAAAAAAAApwH8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-17T17:24:04.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
